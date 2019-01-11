@@ -49,3 +49,4 @@ $ yarn start
 ## LICENSE
 
 MIT
+# umi-example-monorepo-test
