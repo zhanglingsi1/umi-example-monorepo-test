@@ -1,0 +1,11 @@
+{
+  "scripts":  {
+    "start": "set APP_ROOT=packages/main&&umi dev",
+    "users:build": "set COMPRESS=none&&set APP_ROOT=packages/users&&umi build"
+  },
+  "devDependencies": {
+    "globby": "^7.1.1",
+    "umi": "^2.2.7",
+    "umi-plugin-react": "^1.2.3"
+  }
+}
